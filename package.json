@@ -1,0 +1,7 @@
+{
+  "name": "rill-monorepo",
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ]
+}
